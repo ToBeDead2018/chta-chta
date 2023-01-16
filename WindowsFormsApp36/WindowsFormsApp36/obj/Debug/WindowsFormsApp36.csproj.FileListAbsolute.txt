@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\bin\Debug\WindowsFormsApp36.exe.config
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\bin\Debug\WindowsFormsApp36.exe
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\bin\Debug\WindowsFormsApp36.pdb
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\obj\Debug\WindowsFormsApp36.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\obj\Debug\WindowsFormsApp36.Form1.resources
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\obj\Debug\WindowsFormsApp36.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\obj\Debug\WindowsFormsApp36.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\obj\Debug\WindowsFormsApp36.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\obj\Debug\WindowsFormsApp36.exe
+C:\Users\student\source\repos\WindowsFormsApp36\WindowsFormsApp36\obj\Debug\WindowsFormsApp36.pdb
